@@ -1,3 +1,1 @@
-so github 
-wants this
-file
+Small project on Software Carpentry.
